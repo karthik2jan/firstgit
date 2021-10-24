@@ -1,1 +1,3 @@
 check it f2 is a conflict
+..
+
