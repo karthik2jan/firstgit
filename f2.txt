@@ -1,3 +1,4 @@
 check it f2 is a conflict
 ..
 
+check it=f it is conflict
